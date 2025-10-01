@@ -131,6 +131,7 @@ This will:
 │   │   ├── zscore_strategy.py        # Complete Z-score implementation
 │   │   ├── rsi_strategy.py           # RSI mean reversion
 │   │   └── pairs_trading.py          # Pairs trading with cointegration
+    |   └── bollinger_strategy.py     # Complete Bollinger Bands Strategy
 │   ├── risk_management/
 │   │   ├── position_sizing.py        # Kelly, volatility sizing
 │   │   ├── regime_detection.py       # Market regime identification
