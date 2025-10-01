@@ -140,7 +140,7 @@ This will:
 │   │   ├── engine.py                 # Realistic backtesting engine
 │   │   └── performance_metrics.py    # Sharpe, drawdown, etc.
 │   └── validation/
-│       ├── overfitting_detection.py  # Walk-forward, sensitivity (included in examples)
+│       ├── overfitting_detection.py  # Walk-forward, sensitivity 
 │       └── transaction_costs.py      # Cost analysis
 ├── examples/
 │   └── complete_pipeline_example.py  # Full implementation example
