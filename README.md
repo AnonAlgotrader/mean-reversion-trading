@@ -1,10 +1,10 @@
 # Mean Reversion Trading Strategies - Complete Python Implementation
 
-A comprehensive, production-ready implementation of mean reversion trading strategies with emphasis on robustness, risk management, and avoiding common pitfalls.
+A comprehensive implementation of mean reversion trading strategies with emphasis on robustness, risk management, and avoiding common pitfalls.
 
 ## ⚠️ Critical Disclaimer
 
-**This software is for educational purposes only. Trading involves substantial risk of loss. Past performance does not guarantee future results. The code emphasizes what can go wrong rather than potential profits. Never trade with money you cannot afford to lose.**
+**This software is for educational purposes only, frozen in time (02/10/2025). This is a learning resource demonstrating concepts - NOT production software. Trading involves substantial risk of loss. Past performance does not guarantee future results. The code emphasizes what can go wrong rather than potential profits. Never trade with money you cannot afford to lose.**
 
 ## Overview
 
@@ -211,10 +211,10 @@ Before trading real money, ensure:
 - [ ] Risk per trade ≤ 2% of capital
 - [ ] Stop losses implemented and tested
 
-## Support and Contributing
+## Support and Adaptation
 
-- **Issues**: Use GitHub issues for bugs/questions
-- **Contributing**: Read CONTRIBUTING.md first
+- **Support**: No technical support or updates provided. This code demonstrates concepts but is NOT maintained.
+- **Adaptation**: Adapt concepts to current environments as needed. Dependencies and APIs will change over time.
 - **License**: MIT (see LICENSE file)
 
 ## References
