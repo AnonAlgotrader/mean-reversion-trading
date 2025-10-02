@@ -1,3 +1,9 @@
+# This file contains exact dependency versions from 02/10/2025
+# These are provided for educational reproducibility only
+# This environment is NOT maintained and will become outdated
+# Expect dependency conflicts in current Python environments
+# Focus on understanding concepts rather than running this exact code
+
 # Core dependencies for mean reversion trading strategies
 # Python 3.8+ recommended
 
@@ -30,3 +36,7 @@ ipykernel==6.25.0
 # Additional utilities
 warnings-ng==0.1.0
 dataclasses==0.8  # For Python < 3.7
+
+# These pinned versions will inevitably break
+# as packages update. The educational value is in understanding
+# the approach, not executing this exact code snapshot.
