@@ -137,11 +137,9 @@ This will:
 │   │   ├── regime_detection.py       # Market regime identification
 │   │   └── risk_manager.py           # Portfolio risk controls
 │   ├── backtesting/
-│   │   ├── engine.py                 # Realistic backtesting engine
-│   │   └── performance_metrics.py    # Sharpe, drawdown, etc.
+│   │   ├── backtesting_engine.py     # Realistic backtesting engine (contain execution, transaction costs, and performance metrics)
 │   └── validation/
 │       ├── overfitting_detection.py  # Walk-forward, sensitivity 
-│       └── transaction_costs.py      # Cost analysis
 ├── examples/
 │   └── complete_pipeline_example.py  # Full implementation example
 ├── tests/
